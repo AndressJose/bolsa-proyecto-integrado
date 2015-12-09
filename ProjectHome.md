@@ -1,0 +1,1 @@
+Proyecto realizado en php utilizando framework yii (Ajax)y BluprintCSS Framework...de gestor de bd mysql,Siguiendo patrones como MVC,ActiveRecord, etc..
